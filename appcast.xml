@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>VoiceLatte</title>
+        <item>
+            <title>0.2.1</title>
+            <pubDate>Mon, 08 Jun 2026 07:50:20 +0900</pubDate>
+            <link>https://latte.rekinote.app/en/voice/</link>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/hibachi-inc/voicelatte-releases/releases/download/v0.2.1/VoiceLatte.dmg" length="3455023" type="application/octet-stream" sparkle:edSignature="N97BWqWvmQzWchFCKjlGxU5dc5S5D3laB8uRStXeDeM99xatH9A6xgKj1v3jPKAEXLuVEwMGlI9I3MKKU35kBw=="/>
+        </item>
+    </channel>
+</rss>
