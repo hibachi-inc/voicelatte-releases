@@ -3,14 +3,14 @@
     <channel>
         <title>VoiceLatte</title>
         <item>
-            <title>0.3.2</title>
-            <pubDate>Fri, 19 Jun 2026 02:15:23 +0900</pubDate>
+            <title>0.3.3</title>
+            <pubDate>Wed, 15 Jul 2026 21:20:44 +0900</pubDate>
             <link>https://latte.rekinote.app/en/voice/</link>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/hibachi-inc/voicelatte-releases/releases/download/v0.3.2/VoiceLatte.dmg" length="3512924" type="application/octet-stream" sparkle:edSignature="2rv/5QGrEuhHn3TuZMlM5mBc4s3WjPYlMe8jsEO7cuyLpbdFwCFKRkOnhXOBk0Y3m4juCm0yqdedNxlJGe29DA=="/>
+            <enclosure url="https://github.com/hibachi-inc/voicelatte-releases/releases/download/v0.3.3/VoiceLatte.dmg" length="3514480" type="application/octet-stream" sparkle:edSignature="xDxenJvzkYY8KxCoYNVGgtjFnLHCCjX+//wGzo2JtBg+/1UVSCEPKzfaF9Lx53FMJSstnx5oY37l6aL/MXvQBg=="/>
         </item>
     </channel>
 </rss>
