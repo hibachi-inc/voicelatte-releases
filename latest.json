@@ -1,11 +1,15 @@
 {
   "version": "0.4.3",
   "notes": "アプリ内アップデートに対応しました。",
-  "pub_date": "2026-09-06T19:14:41.582Z",
+  "pub_date": "2026-09-06T19:45:10.665Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUS2gvY25NejV0ckNFRStVbDAzRFZHS2hZc1pwTUZ0dlJBZnJwT09TWG14OU1zV2xTMTdMRnRpeFpRUi9HQ2dRS0JCVHNiUmUrWnl4MnN1OXBKdi9ZMVdiSzZwaSs3WkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NzIyMDI1CWZpbGU6Vm9pY2VMYXR0ZS5hcHAudGFyLmd6CjdmM2xYcTg1Z3B2WWY5QU02T05pV05ZYmNRUElkWkFSTW9Ud250NUJwNE9ITUlWcHk3YjZLNXN4U0d5d0dkSjNyVEd6T002bkptaytzc2NOK2EwWkJnPT0K",
       "url": "https://github.com/hibachi-inc/voicelatte-releases/releases/download/v0.4.3/VoiceLatte.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUS2gvY25NejV0ckRUUXZRVCt6cVRDaXpZTjFBbm1KUXljZ2t1Z0Z5ZUZ6a3UwdW5NVGV6RjNEM2xVeVBFN016MUxtWGJ2WGkvZ2piZEJJaVRRUlhKRkthZlplUHhHM0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NzIzMzI3CWZpbGU6Vm9pY2VMYXR0ZV8wLjQuM194NjQtc2V0dXAuZXhlCm85LzhiU0lnVzViOGxJMUNTWUg0Wk54S3J3MENRQ1FiTFJOeWhBc0VyQmNRSEJ6dXNqUTRrdnBWQXpHR0U4NDhLczBKR0h5KzlVODluYisvdUNTNEJBPT0K",
+      "url": "https://github.com/hibachi-inc/voicelatte-releases/releases/download/v0.4.3/VoiceLatte-Windows-x64-Setup.exe"
     }
   }
 }
