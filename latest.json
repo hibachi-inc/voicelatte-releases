@@ -1,0 +1,11 @@
+{
+  "version": "0.4.2",
+  "notes": "アプリ内アップデートに対応しました。",
+  "pub_date": "2026-09-06T19:08:23.272Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUS2gvY25NejV0cklWSmdwb3g4MHdaZC9IUnBkZmlFT0taUXlQRG55aUlpeTNndzJZclBTc0lieityKzVySm5TbEE4Z2RPSGlFdkFqdk5taGxNTmljamRLczVMUUNIcFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NzIxNjQzCWZpbGU6Vm9pY2VMYXR0ZS5hcHAudGFyLmd6Cjk2Mm5UL1REL1NoRmNVTEZIUU51dWhsQVY3enlGQkMrQTlFcUNzamdka2VBRzloZ1dJS3hYbFoxVS9HY0dDc09RUU9JUVhYeFpXVEpxdG9ycSthekNRPT0K",
+      "url": "https://github.com/hibachi-inc/voicelatte-releases/releases/download/v0.4.2/VoiceLatte.app.tar.gz"
+    }
+  }
+}
