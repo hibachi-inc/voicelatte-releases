@@ -1,11 +1,11 @@
 {
-  "version": "0.4.7",
-  "notes": "プライバシー強化：撮影失敗時は画像なしで続行、確定文・整形文・URLの平文ログ停止、画面文脈の保存をデバッグ限定に、CSP設定、マスキング拡張、自動ペースト後のclipboard復元。報告フロー刷新（手書き／AI二択）、AI貢献スキル、デバッグモード、辞書初期値にVoiceLatte追加。",
-  "pub_date": "2026-09-11T06:38:01.000Z",
+  "version": "0.4.8",
+  "notes": "配布元を hibachi-inc/OpenVoiceText に移行しました。この更新で確認先が切り替わります。",
+  "pub_date": "2026-09-11T06:56:52.000Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUS2gvY25NejV0ckprY3Mya2NzaDBoSHFXNWVERkhvUmJ0WkMwQnZ6L3htdmxPZ1FZUkZYZjVGWTRJRjkzck5ZOVJBYzFRSEQrUkE1dHhBdVNCRWdoQXkwZS9pdUFxS2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTA4NTc3CWZpbGU6Vm9pY2VMYXR0ZS5hcHAudGFyLmd6CndDN1RDRnZDSEl4bjdmUUxZUmJsdkhTeS9SSGkzNmhFcHY2QkR3SDZsdk9kTnNsL1U3RXJVV2VicVZVRXZHbkl2UlEwRGRhdXovL3dXM25iQkE3M0JBPT0K",
-      "url": "https://github.com/hibachi-inc/voicelatte-releases/releases/download/v0.4.7/VoiceLatte-047.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUS2gvY25NejV0ckg2K3BtT0IycGRuWkpXdklHcFRUTmVxSm5EeWx6NkNPUGVkdnpSMXpNZ2hhc2h4S1lrUmFMTWdaRnNCTmxwOTVGdW8xODgxbEE5YitCS3lINFd0NVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTA5NzA2CWZpbGU6Vm9pY2VMYXR0ZS5hcHAudGFyLmd6CjRFUmhzVDVZT0hVdE9CMW54cGFON0xCNUhDRXJRanBpbzV3Z0tjOW9iZHQ2MjV3VDNYaktreDlCUlpOb3NJVnZTVDhwSEVDL2tNWkZDcTJtaERFNURnPT0K",
+      "url": "https://github.com/hibachi-inc/OpenVoiceText/releases/download/v0.4.8/VoiceLatte-048.tar.gz"
     }
   }
 }
