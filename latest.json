@@ -1,15 +1,11 @@
 {
-  "version": "0.4.6",
-  "notes": "モデルカタログ、画像文脈、見比べ選択のHUD統合、処理中Escキャンセル、初回録音の確定失敗修正に対応しました。",
-  "pub_date": "2026-09-09T14:50:53.000Z",
+  "version": "0.4.7",
+  "notes": "プライバシー強化：撮影失敗時は画像なしで続行、確定文・整形文・URLの平文ログ停止、画面文脈の保存をデバッグ限定に、CSP設定、マスキング拡張、自動ペースト後のclipboard復元。報告フロー刷新（手書き／AI二択）、AI貢献スキル、デバッグモード、辞書初期値にVoiceLatte追加。",
+  "pub_date": "2026-09-11T06:38:01.000Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUS2gvY25NejV0ckJMbTVzU3RsNWNacnpZZGt5NzdQdS9Jb3hGVW9pZVp0aU9DZG5pdFZNZkFOQloxY2ZLQWRyanV4SjE5ME5YWFZwcXE2WXdlRGgwNzcydHZyTnIwaGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTY1MTYxCWZpbGU6Vm9pY2VMYXR0ZS5hcHAudGFyLmd6CjJMRmdEVnpFZXF5eDhiVjZMTnZhdlVENngxSkpuNUY4TFN3K054bGJ1elJiZm4zaHBCL0pQckJjeXNzNUdoTVhHajY1cDc5WUJxenRvTEJzc0FSOURBPT0K",
-      "url": "https://github.com/hibachi-inc/voicelatte-releases/releases/download/v0.4.6/VoiceLatte-046.tar.gz"
-    },
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUS2gvY25NejV0ckoxZXdOQWlJanY0TXdHMDRZK21vQmpoNVQ3NE9nU202dlpmVFhNTVo0UDdacjdyRG9UekxHVjVBbDdzOGY2R1drZDBWTFo5eC9Pak9IUU1sdUNDWGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTYzMjMzCWZpbGU6Vm9pY2VMYXR0ZV8wLjQuNl94NjQtc2V0dXAuZXhlCkVDbGNXcUFIWktSZFQrMjcyYlN0T3o2S0xWSkZyQk5sbUM5aVh2MWNRZzBWSVZzUUZlaEJBOHlDUnZsaWdlTjZSN0o4QnRzUzBNdTk1TkRJQ3kxdERBPT0K",
-      "url": "https://github.com/hibachi-inc/voicelatte-releases/releases/download/v0.4.6/VoiceLatte-Windows-x64-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUS2gvY25NejV0ckprY3Mya2NzaDBoSHFXNWVERkhvUmJ0WkMwQnZ6L3htdmxPZ1FZUkZYZjVGWTRJRjkzck5ZOVJBYzFRSEQrUkE1dHhBdVNCRWdoQXkwZS9pdUFxS2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTA4NTc3CWZpbGU6Vm9pY2VMYXR0ZS5hcHAudGFyLmd6CndDN1RDRnZDSEl4bjdmUUxZUmJsdkhTeS9SSGkzNmhFcHY2QkR3SDZsdk9kTnNsL1U3RXJVV2VicVZVRXZHbkl2UlEwRGRhdXovL3dXM25iQkE3M0JBPT0K",
+      "url": "https://github.com/hibachi-inc/voicelatte-releases/releases/download/v0.4.7/VoiceLatte-047.tar.gz"
     }
   }
 }
